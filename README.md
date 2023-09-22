@@ -30,5 +30,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoozieKam&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=szkam&color=dark)](https://velog.io/@szkam)
+
+<br/>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=szkam)](https://solved.ac/szkam)
 </div>
 </div>
+
+
+
+
